@@ -1,0 +1,14 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+        tools:context="com.example.mynotes.MainActivity">
+
+    <!--
+        <item
+                android:id="@+id/share"
+                android:orderInCategory="100"
+                android:icon="@drawable/ic_launcher_background"
+                android:co
+                app:showAsAction="always" />
+
+    -->
+
+</menu>
